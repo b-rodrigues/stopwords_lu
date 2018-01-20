@@ -1,4 +1,4 @@
-# stopwords_lu
+# stopwords_lu.csv
 This is a csv file with stopwords in Luxembourguish
 
 # afinn_lux.csv
